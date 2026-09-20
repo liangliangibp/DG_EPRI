@@ -1,0 +1,1 @@
+python EP_reads_add_DEG.py EP_chimeirc_sum_each_gene.txt WE1_vs_WE0.txt
